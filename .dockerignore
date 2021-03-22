@@ -2,3 +2,5 @@ Dockerfile
 README.md
 .vscode
 .gitignore
+.dockerignore
+.gcloudignore
